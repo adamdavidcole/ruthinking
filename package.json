@@ -1,0 +1,29 @@
+{
+  "name": "severalpeoplearethinking",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdavidcole/ruthinking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamdavidcole/ruthinking/issues"
+  },
+  "homepage": "https://github.com/adamdavidcole/ruthinking#readme"
+}
